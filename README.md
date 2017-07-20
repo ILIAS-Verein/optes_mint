@@ -1,1 +1,1 @@
-# optes_mint
+# optes_mint is an ILIAS skin for the optes project at www.optes.de
